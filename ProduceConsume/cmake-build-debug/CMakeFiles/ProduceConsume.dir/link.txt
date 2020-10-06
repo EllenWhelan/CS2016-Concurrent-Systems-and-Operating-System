@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/ProduceConsume.dir/main.c.o  -o ProduceConsume.exe -Wl,--out-implib,libProduceConsume.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
